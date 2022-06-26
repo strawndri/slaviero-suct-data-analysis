@@ -1,4 +1,5 @@
-# Análise de Dados - Slaviero Essential Curitiba Shopping | SUCT
+# Análise de Dados 
+## Slaviero Essential Curitiba Shopping | SUCT
 > Status: em andamento 🚧
 
 # 🔵 índice
