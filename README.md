@@ -1,1 +1,0 @@
-# slaviero-suct-checkouts
